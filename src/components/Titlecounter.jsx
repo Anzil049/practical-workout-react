@@ -11,7 +11,7 @@ function Titlecounter() {
         document.title="react"
     }
     
-  }, [count]);
+  },[count]);
 
   return (
     <div>
